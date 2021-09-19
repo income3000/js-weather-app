@@ -2,3 +2,7 @@ body {
     background-color: beige;
     display: grid;
 }
+.weather{
+    border-radius: 15px;
+    border: 1px solid black;
+}
